@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  作业9-3.cpp
+e:\vs2015\作业\作业9-3\作业9-3\作业9-3.cpp(47): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs2015\作业\作业9-3\作业9-3\作业9-3.cpp(30): warning C4715: “GetNum”: 不是所有的控件路径都返回值
+    正在创建库 E:\VS2015\作业\作业9-3\Debug\作业9-3.lib 和对象 E:\VS2015\作业\作业9-3\Debug\作业9-3.exp
+LINK : warning LNK4232: 名称 作业9-3.dll 包含非 ASCII 字符，在具有除 936 以外的 ANSI 代码页的系统上可能不能加载 DLL
+  作业9-3.vcxproj -> E:\VS2015\作业\作业9-3\Debug\作业9-3.dll
+  作业9-3.vcxproj -> E:\VS2015\作业\作业9-3\Debug\作业9-3.pdb (Full PDB)

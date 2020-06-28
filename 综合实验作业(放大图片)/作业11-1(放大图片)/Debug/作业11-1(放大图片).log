@@ -1,0 +1,7 @@
+﻿  bigpiture.cpp
+e:\vs2015\作业\作业11-1(放大图片)\作业11-1(放大图片)\bigpiture.cpp(38): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\vs2015\作业\作业11-1(放大图片)\作业11-1(放大图片)\bigpiture.cpp(39): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\vs2015\作业\作业11-1(放大图片)\作业11-1(放大图片)\bigpiture.cpp(43): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\vs2015\作业\作业11-1(放大图片)\作业11-1(放大图片)\bigpiture.cpp(51): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  作业11-1(放大图片).vcxproj -> E:\VS2015\作业\作业11-1(放大图片)\Debug\作业11-1(放大图片).exe
+  作业11-1(放大图片).vcxproj -> E:\VS2015\作业\作业11-1(放大图片)\Debug\作业11-1(放大图片).pdb (Full PDB)

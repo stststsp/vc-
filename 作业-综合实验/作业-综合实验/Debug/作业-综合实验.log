@@ -1,0 +1,10 @@
+﻿  作业-综合实验View.cpp
+d:\xinxinya\作业-综合实验\作业-综合实验\作业-综合实验view.cpp(135): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\xinxinya\作业-综合实验\作业-综合实验\作业-综合实验view.cpp(136): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\xinxinya\作业-综合实验\作业-综合实验\作业-综合实验view.cpp(141): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\xinxinya\作业-综合实验\作业-综合实验\作业-综合实验view.cpp(147): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  作业-综合实验.cpp
+  作业-综合实验.vcxproj -> D:\xinxinya\作业-综合实验\Debug\作业-综合实验.exe
+  作业-综合实验.vcxproj -> D:\xinxinya\作业-综合实验\Debug\作业-综合实验.pdb (Full PDB)

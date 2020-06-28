@@ -1,0 +1,4 @@
+﻿  convert.cpp
+e:\vs2015\作业\作业9-2\作业9-2\convert.cpp(32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vs2015\作业\作业9-2\作业9-2\convert.cpp(20): warning C4715: “F2::GetNum”: 不是所有的控件路径都返回值
+  作业9-2.vcxproj -> E:\VS2015\作业\作业9-2\Debug\作业9-2.lib
