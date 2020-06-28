@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  MainFrm.cpp
+  2.1.1View.cpp
+  2.1.1Doc.cpp
+  2.1.1.cpp
+  正在生成代码...
+  LINK : 没有找到 G:\001\2020下\VC\二\2.1.1\Debug\2.1.1.exe 或上一个增量链接没有生成它；正在执行完全链接
+  2.1.1.vcxproj -> G:\001\2020下\VC\二\2.1.1\Debug\2.1.1.exe
+  2.1.1.vcxproj -> G:\001\2020下\VC\二\2.1.1\Debug\2.1.1.pdb (Full PDB)
